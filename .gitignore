@@ -1,0 +1,22 @@
+# dependencies
+node_modules/
+
+# expo / react-native build output
+.expo/
+dist/
+web-build/
+*.orig.*
+android/
+ios/
+
+# env
+.env
+.env.*
+!.env.example
+
+# logs / os
+*.log
+.DS_Store
+
+# local scratch
+.scratch/
